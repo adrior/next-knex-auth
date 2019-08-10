@@ -1,0 +1,30 @@
+{
+  "name": "next-knex-auth",
+  "version": "1.0.0",
+  "description": "Boilerplate for starting new project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrior/next-knex-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrior/next-knex-auth/issues"
+  },
+  "homepage": "https://github.com/adrior/next-knex-auth#readme",
+  "dependencies": {
+    "knex": "^0.19.1",
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "sqlite3": "^4.0.9"
+  }
+}
